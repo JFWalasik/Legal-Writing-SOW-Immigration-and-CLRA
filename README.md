@@ -1,3 +1,3 @@
 # Legal Writing
 
-Selet a document, and then click Download or 'view raw' to see each document. 
+Select a document by clicking its title, and then click Download or 'view raw' to see each document. 
